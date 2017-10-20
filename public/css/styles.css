@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 20px;
+}
+
+#heading {
+	margin-left: 100px;
+	text-align: right;
+	color: #666;
+}
+
+footer {
+	text-align: right;
+	color: #666;
+}
+.container {
+	margin: 30px 10px 10px 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+.weeksRemain {
+	background-color: #ffcccc;
+}
