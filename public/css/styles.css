@@ -1,6 +1,12 @@
 body {
 	margin: 0;
 	padding: 20px;
+	background-color: #F9F9F9;
+}
+
+hr {
+	border: 1px solid #ccc;
+	margin: 30px 0px 30px 0px;
 }
 
 #heading {
@@ -9,12 +15,17 @@ body {
 	color: #666;
 }
 
+div.row {
+	width: 100%;
+}
+
+
 footer {
-	text-align: right;
+	text-align: center;
 	color: #666;
 }
-.container {
-	margin: 30px 10px 10px 10px;
+.content {
+	margin: 60px 10px 10px 10px;
 }
 
 h1{
@@ -24,3 +35,31 @@ h1{
 .weeksRemain {
 	background-color: #ffcccc;
 }
+
+.row-0 {
+	margin-bottom: 40px;
+}
+
+.row-2 {
+	margin: 30px 10px 10px 10px;
+}
+
+select {
+	height: 180px;
+}
+
+.col-4 {
+	text-align: center;
+}
+
+.box {
+	border: 1px solid #999;
+	margin: 5px;
+	padding: 5px;
+	height: 200px
+}
+
+div.col-1 img {
+	margin: 5px;	
+}
+
